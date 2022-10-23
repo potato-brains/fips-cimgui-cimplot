@@ -1,0 +1,8 @@
+#
+# fips-cimgui
+#
+---
+exports:
+    modules:
+        cimgui-cimplot: .
+
